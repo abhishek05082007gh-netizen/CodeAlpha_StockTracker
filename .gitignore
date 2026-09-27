@@ -1,0 +1,7 @@
+﻿__pycache__/
+*.py[cod]
+*$py.class
+portfolio_summary.txt
+portfolio_summary.csv
+.vscode/
+.idea/
